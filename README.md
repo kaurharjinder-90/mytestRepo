@@ -1,7 +1,7 @@
-# PowerShell Scripts
+# My GitHub Assignment
 
 ***<u>Harjinder Kaur</u>***
 
-***<u>Computer Systems Technician - IT Infrastructure & Services</u>***
+***<u>SYST16023 MS PowerShell</u>***
 
 This repository contains my Git and PowerShell assignments.
